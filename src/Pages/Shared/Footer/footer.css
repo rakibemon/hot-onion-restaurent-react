@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+footer{
+    font-family: 'Rubik', sans-serif;
+    background-color: #191919;
+    height: 40vh;
+}
+footer img {
+    width: 200px;
+    height: 50px;
+}

@@ -1,0 +1,12 @@
+.breakfast{
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.breakfast img{
+    height: 280px;
+    width: 250px;
+    padding: 20px 0px;
+}

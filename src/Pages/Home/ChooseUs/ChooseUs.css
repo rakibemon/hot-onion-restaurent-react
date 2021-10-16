@@ -1,0 +1,14 @@
+.arrow{
+    background-color: #19e270;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.choose-us-card{
+    padding: 12px;
+    transition: all 0.3s linear;
+    border-radius: 10px;
+}
+.choose-us-card:hover{
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
