@@ -4,7 +4,6 @@ import useMeal from '../../../../hooks/useMeal';
 import BreakfastCard from '../Brakefast/BreakfastCard';
 const Dinner = () => {
     const {dinners} = useMeal();
-    console.log(dinners[0]);
     return (
         <Container>
             <Row>

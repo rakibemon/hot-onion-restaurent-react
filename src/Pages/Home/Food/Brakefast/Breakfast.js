@@ -5,7 +5,7 @@ import useMeal from '../../../../hooks/useMeal';
 import './Breakfast.css'
 import BreakfastCard from './BreakfastCard';
 const Breakfast = () => {
-    const [breakfasts] = useMeal();
+    const {breakfasts} = useMeal();
     return (
         <Container>
             <Row>

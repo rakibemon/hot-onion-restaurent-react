@@ -4,7 +4,7 @@ import useMeal from '../../hooks/useMeal';
 import './MealDetails.css'
 
 const MealSlider = () => {
-    const [breakfasts] = useMeal()
+    const {breakfasts} = useMeal()
     return (
         <div>
             <Carousel variant="dark" className='carousel'>

@@ -6,7 +6,7 @@ import MealSlider from './MealSlider';
 export const PriceContext = React.createContext();
 
 const MealDetails = () => {
-    const [breakfasts] = useMeal();
+    const {breakfasts} = useMeal();
     const [foodQuantity, setFoodQuantity] = useState(1);
     const [singleMealDetail, setSingleMealDetail] = useState({});
     const { mealId } = useParams();
