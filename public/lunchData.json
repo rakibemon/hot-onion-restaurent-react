@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "category":"lunch",
       "img": "https://i.ibb.co/1zCLJmn/lunch1.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",
@@ -8,6 +9,7 @@
     },
     {
       "id": 2,
+      "category":"lunch",
       "img": "https://i.ibb.co/J3N6Vx4/lunch2.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",
@@ -15,6 +17,7 @@
     },
     {
       "id": 3,
+      "category":"lunch",
       "img": "https://i.ibb.co/Z6KgMkK/lunch3.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",
@@ -22,6 +25,7 @@
     },
     {
       "id": 4,
+      "category":"lunch",
       "img": "https://i.ibb.co/MsFxcsh/lunch4.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",
@@ -29,6 +33,7 @@
     },
     {
       "id": 5,
+      "category":"lunch",
       "img": "https://i.ibb.co/ncyPMnC/lunch5.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",
@@ -36,6 +41,7 @@
     },
     {
       "id": 6,
+      "category":"lunch",
       "img": "https://i.ibb.co/RYSW5n3/lunch6.png",
       "name": "Healthy Meal Plan",
       "desc": "How we dream about our future",

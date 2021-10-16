@@ -1,6 +1,7 @@
 [
 	{
 		"id": 1,
+		"category":"dinner",
 		"img": "https://i.ibb.co/17sNx65/dinner1.png",
 		"name": "Salmon With Grapefruits And Lentil Salad",
 		"desc": "How we dream about our future",
@@ -8,6 +9,7 @@
 	},
 	{
 		"id": 2,
+		"category":"dinner",
 		"img": "https://i.ibb.co/ZVfVPP8/dinner2.png",
 		"name": "Lemony Salmon Piccata",
 		"desc": "How we dream about our future",
@@ -15,6 +17,7 @@
 	},
 	{
 		"id": 3,
+		"category":"dinner",
 		"img": "https://i.ibb.co/kGDtPHK/dinner3.png",
 		"name": "Pork Tenderloin With Quinoa Pilaf",
 		"desc": "How we dream about our future",
@@ -22,6 +25,7 @@
 	},
 	{
 		"id": 4,
+		"category":"dinner",
 		"img": "https://i.ibb.co/2tSBMTQ/dinner4.png",
 		"name": "French Fries With Cheese",
 		"desc": "How we dream about our future",
@@ -29,6 +33,7 @@
 	},
 	{
 		"id": 5,
+		"category":"dinner",
 		"img": "https://i.ibb.co/hX5gyRZ/dinner5.png",
 		"name": "Garlic Butter Baked Salmon",
 		"desc": "How we dream about our future",
@@ -36,6 +41,7 @@
 	},
 	{
 		"id": 6,
+		"category":"dinner",
 		"img": "https://i.ibb.co/pdCLGRC/dinner6.png",
 		"name": "Baked Chicken",
 		"desc": "How we dream about our future",

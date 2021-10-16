@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react';
 import { Col, Container, Row, Button } from 'react-bootstrap';
 import { useHistory, useParams } from 'react-router';
-import useBreakfast from '../../hooks/useBreakfast';
+import useMeal from '../../hooks/useMeal';
 import MealSlider from './MealSlider';
 export const PriceContext = React.createContext();
 
 const MealDetails = () => {
-    const [breakfasts] = useBreakfast();
+    const [breakfasts] = useMeal();
     const [foodQuantity, setFoodQuantity] = useState(1);
     const [singleMealDetail, setSingleMealDetail] = useState({});
     const { mealId } = useParams();

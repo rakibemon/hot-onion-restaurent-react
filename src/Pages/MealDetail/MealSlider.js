@@ -1,10 +1,10 @@
 import React from 'react';
 import { Carousel } from 'react-bootstrap';
-import useBreakfast from '../../hooks/useBreakfast';
+import useMeal from '../../hooks/useMeal';
 import './MealDetails.css'
 
 const MealSlider = () => {
-    const [breakfasts] = useBreakfast()
+    const [breakfasts] = useMeal()
     return (
         <div>
             <Carousel variant="dark" className='carousel'>

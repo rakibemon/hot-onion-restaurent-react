@@ -1,11 +1,11 @@
 import React from 'react';
 import { Container, Row } from 'react-bootstrap';
-import useBreakfast from '../../../../hooks/useBreakfast';
+import useMeal from '../../../../hooks/useMeal';
 
 import './Breakfast.css'
 import BreakfastCard from './BreakfastCard';
 const Breakfast = () => {
-    const [breakfasts] = useBreakfast();
+    const [breakfasts] = useMeal();
     return (
         <Container>
             <Row>
